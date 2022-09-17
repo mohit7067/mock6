@@ -1,0 +1,10 @@
+.carscontainerwish{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:20px
+}
+.carscontainerwish >div{
+    border: 1px solid ;
+    border-radius: 20px;
+    padding: 20px;
+}

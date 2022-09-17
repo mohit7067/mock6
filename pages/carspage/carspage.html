@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="carspage.css">
+</head>
+<body>
+    <h1 style="text-align: center;">Cars Page </h1>
+    <div class="functions">
+        <div>
+        <label for="sortbyprice">Sort by price</label>
+        <select name="sort" id="sort">
+            <option value="asc">Low to High</option>
+            <option value="desc">High to Low</option>
+
+        </select>
+    </div>
+        <div>
+        <label for="">Sort by Kms Driven</label>
+        <select name="sort" id="kmsort">
+            <option value="asc">Low to High</option>
+            <option value="desc">High to Low</option>
+
+        </select>
+    </div>
+        <div>
+        <label for="">Filter by brand</label>
+        <select name="brand" id="brand"  required>
+            <option value="Tata">Tata</option>
+            <option value="Hyundai">Hyundai</option>
+            <option value="Mahindra">Mahindra</option>
+            <option value="Kia">Kia</option>
+            <option value="MG">MG</option>
+            <option value="BMW">BMW</option>
+            <option value="AUDI">AUDI</option>
+        </select>
+    </div>
+    </div>
+    <div class="pricemodel"></div>
+    <div class="carscontainer"></div>
+
+    
+</body>
+<script src="carspage.js"></script>
+</html>

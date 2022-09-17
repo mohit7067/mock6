@@ -1,0 +1,141 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": "888000"
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2015",
+      "kms": "2233",
+      "Description": "hello alto 800 the legend here",
+      "Price": "220000",
+      "id": 7
+    },
+    {
+      "brand": "Mahindra",
+      "type": "Manual",
+      "year": "2015",
+      "kms": "11233",
+      "Description": "lorem ipsum here tata bata",
+      "Price": "11230000",
+      "id": 9
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2018",
+      "kms": "224",
+      "Description": "hello tata 1 car post",
+      "Price": "224000",
+      "id": 10
+    },
+    {
+      "brand": "Hyundai",
+      "type": "Manual",
+      "year": "2017",
+      "kms": "3334",
+      "Description": "hyundai is love",
+      "Price": "2200000",
+      "id": 11
+    },
+    {
+      "brand": "Hyundai",
+      "type": "Manual",
+      "year": "2017",
+      "kms": "3345",
+      "Description": "lorem ipsum hyundai",
+      "Price": "260000",
+      "id": 12
+    },
+    {
+      "brand": "Mahindra",
+      "type": "Manual",
+      "year": "2018",
+      "kms": "23421",
+      "Description": "dsdfgfdfgfafs",
+      "Price": "2324341234",
+      "id": 13
+    },
+    {
+      "brand": "Kia",
+      "type": "Manual",
+      "year": "2015",
+      "kms": "1223234",
+      "Description": "dflk lorem lorem",
+      "Price": "12345",
+      "id": 14
+    },
+    {
+      "brand": "MG",
+      "type": "Manual",
+      "year": "2015",
+      "kms": "12345",
+      "Description": "LOREM LOREM",
+      "Price": "33332",
+      "id": 15
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "brand": "Hyundai",
+      "type": "Manual",
+      "year": "2017",
+      "kms": "22333",
+      "Description": "lorem ipsum alto 800",
+      "Price": "22220000",
+      "id": 3
+    },
+    {
+      "brand": "Mahindra",
+      "type": "Manual",
+      "year": "2015",
+      "kms": "11233",
+      "Description": "lorem ipsum here tata bata",
+      "Price": "11230000",
+      "id": 9
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2015",
+      "kms": "2233",
+      "Description": "hello alto 800 the legend here",
+      "Price": "220000",
+      "id": 7
+    },
+    {
+      "brand": "Kia",
+      "type": "Manual",
+      "year": "2015",
+      "kms": "1223234",
+      "Description": "dflk lorem lorem",
+      "Price": "12345",
+      "id": 14
+    }
+  ]
+}

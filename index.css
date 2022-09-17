@@ -1,0 +1,34 @@
+body{
+    margin:0
+}
+
+nav{
+    display: flex;
+    background-color: teal;
+    color: white;
+    justify-content: space-between;
+}
+
+nav h1{
+    margin-left: 20px;
+}
+nav a{
+    border-bottom: 2px solid red;
+    text-decoration: underline;
+    color: white;
+    margin-right: 20px;
+}
+
+.text{
+    font-size: 200px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
+.text2{
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
